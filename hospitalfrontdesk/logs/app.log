@@ -1,0 +1,43 @@
+2019-11-10 21:48:12,412 INFO c.c.m.h.HospitalFrontDeskApplication [restartedMain] Starting HospitalFrontDeskApplication on DELL-PC with PID 5416 (C:\Users\DELL\Downloads\hospitalfrontdesk\target\classes started by DELL in C:\Users\DELL\Downloads\hospitalfrontdesk)
+2019-11-10 21:48:12,430 INFO c.c.m.h.HospitalFrontDeskApplication [restartedMain] No active profile set, falling back to default profiles: default
+2019-11-10 21:48:25,359 INFO c.c.m.h.HospitalFrontDeskApplication [restartedMain] Started HospitalFrontDeskApplication in 13.881 seconds (JVM running for 16.331)
+2019-11-10 21:51:16,738 ERROR c.c.m.h.s.SpecialistService [http-nio-8080-exec-2] beds are not available for hospital : kaveri
+2019-11-11 08:01:18,856 INFO c.c.m.h.HospitalFrontDeskApplication [restartedMain] Starting HospitalFrontDeskApplication on DELL-PC with PID 1664 (C:\Users\DELL\Downloads\hospitalfrontdesk\target\classes started by DELL in C:\Users\DELL\Downloads\hospitalfrontdesk)
+2019-11-11 08:01:18,873 INFO c.c.m.h.HospitalFrontDeskApplication [restartedMain] No active profile set, falling back to default profiles: default
+2019-11-11 08:01:22,951 INFO c.c.m.h.HospitalFrontDeskApplication [restartedMain] Started HospitalFrontDeskApplication in 4.55 seconds (JVM running for 6.635)
+2019-11-11 09:51:30,770 INFO c.c.m.h.HospitalFrontDeskApplication [restartedMain] Starting HospitalFrontDeskApplication on DELL-PC with PID 3644 (C:\Users\DELL\Downloads\hospitalfrontdesk\target\classes started by DELL in C:\Users\DELL\Downloads\hospitalfrontdesk)
+2019-11-11 09:51:30,817 INFO c.c.m.h.HospitalFrontDeskApplication [restartedMain] No active profile set, falling back to default profiles: default
+2019-11-11 09:51:34,675 INFO c.c.m.h.HospitalFrontDeskApplication [restartedMain] Started HospitalFrontDeskApplication in 4.26 seconds (JVM running for 5.753)
+2019-11-11 10:30:19,403 INFO c.c.m.h.HospitalFrontDeskApplication [restartedMain] Starting HospitalFrontDeskApplication on DELL-PC with PID 4736 (C:\Users\DELL\Downloads\hospitalfrontdesk\target\classes started by DELL in C:\Users\DELL\Downloads\hospitalfrontdesk)
+2019-11-11 10:30:19,473 INFO c.c.m.h.HospitalFrontDeskApplication [restartedMain] No active profile set, falling back to default profiles: default
+2019-11-11 10:30:23,769 INFO c.c.m.h.HospitalFrontDeskApplication [restartedMain] Started HospitalFrontDeskApplication in 5.125 seconds (JVM running for 6.844)
+2019-11-11 12:02:52,935 INFO c.c.m.h.HospitalFrontDeskApplication [restartedMain] Starting HospitalFrontDeskApplication on DELL-PC with PID 4736 (C:\Users\DELL\Downloads\hospitalfrontdesk\target\classes started by DELL in C:\Users\DELL\Downloads\hospitalfrontdesk)
+2019-11-11 12:02:52,958 INFO c.c.m.h.HospitalFrontDeskApplication [restartedMain] No active profile set, falling back to default profiles: default
+2019-11-11 12:03:04,239 INFO c.c.m.h.HospitalFrontDeskApplication [restartedMain] Started HospitalFrontDeskApplication in 11.741 seconds (JVM running for 5567.264)
+2019-11-11 12:07:37,003 INFO c.c.m.h.HospitalFrontDeskApplication [restartedMain] Starting HospitalFrontDeskApplication on DELL-PC with PID 4736 (C:\Users\DELL\Downloads\hospitalfrontdesk\target\classes started by DELL in C:\Users\DELL\Downloads\hospitalfrontdesk)
+2019-11-11 12:07:37,004 INFO c.c.m.h.HospitalFrontDeskApplication [restartedMain] No active profile set, falling back to default profiles: default
+2019-11-11 12:07:38,443 INFO c.c.m.h.HospitalFrontDeskApplication [restartedMain] Started HospitalFrontDeskApplication in 1.694 seconds (JVM running for 5841.464)
+2019-11-11 12:10:53,377 INFO c.c.m.h.HospitalFrontDeskApplication [restartedMain] Starting HospitalFrontDeskApplication on DELL-PC with PID 4736 (C:\Users\DELL\Downloads\hospitalfrontdesk\target\classes started by DELL in C:\Users\DELL\Downloads\hospitalfrontdesk)
+2019-11-11 12:10:53,378 INFO c.c.m.h.HospitalFrontDeskApplication [restartedMain] No active profile set, falling back to default profiles: default
+2019-11-11 12:10:54,492 INFO c.c.m.h.HospitalFrontDeskApplication [restartedMain] Started HospitalFrontDeskApplication in 1.213 seconds (JVM running for 6037.51)
+2019-11-11 12:25:50,447 ERROR c.c.m.h.c.HospitalController [http-nio-8083-exec-4] specialist is not available  : anastheisan
+2019-11-11 18:14:19,485 INFO c.c.m.h.HospitalFrontDeskApplication [restartedMain] Starting HospitalFrontDeskApplication on DELL-PC with PID 2104 (C:\Users\DELL\Downloads\hospitalfrontdesk\target\classes started by DELL in C:\Users\DELL\Downloads\hospitalfrontdesk)
+2019-11-11 18:14:19,543 INFO c.c.m.h.HospitalFrontDeskApplication [restartedMain] No active profile set, falling back to default profiles: default
+2019-11-11 18:14:26,128 INFO c.c.m.h.HospitalFrontDeskApplication [restartedMain] Started HospitalFrontDeskApplication in 7.412 seconds (JVM running for 9.957)
+2019-11-11 18:51:36,915 ERROR c.c.m.h.c.HospitalController [http-nio-8083-exec-7] specialist is not available  : psychologist
+2019-11-11 19:19:48,396 ERROR c.c.m.h.c.HospitalController [http-nio-8083-exec-4] specialist is not available  : psychologist
+2019-11-11 19:31:11,022 ERROR c.c.m.h.c.HospitalController [http-nio-8083-exec-6] specialist is not available  : psychologist
+2019-11-11 20:44:00,363 ERROR c.c.m.h.c.HospitalController [http-nio-8083-exec-9] specialist is not available  : Dentist
+2019-11-11 20:44:16,910 ERROR c.c.m.h.c.HospitalController [http-nio-8083-exec-1] specialist is not available  : Dentist
+2019-11-11 20:51:19,291 INFO c.c.m.h.HospitalFrontDeskApplication [restartedMain] Starting HospitalFrontDeskApplication on DELL-PC with PID 2104 (C:\Users\DELL\Downloads\hospitalfrontdesk\target\classes started by DELL in C:\Users\DELL\Downloads\hospitalfrontdesk)
+2019-11-11 20:51:19,292 INFO c.c.m.h.HospitalFrontDeskApplication [restartedMain] No active profile set, falling back to default profiles: default
+2019-11-11 20:51:27,347 INFO c.c.m.h.HospitalFrontDeskApplication [restartedMain] Started HospitalFrontDeskApplication in 8.495 seconds (JVM running for 9431.005)
+2019-11-11 22:47:11,388 INFO c.c.m.h.HospitalFrontDeskApplication [restartedMain] Starting HospitalFrontDeskApplication on DELL-PC with PID 2692 (C:\Users\DELL\Downloads\hospitalfrontdesk\target\classes started by DELL in C:\Users\DELL\Downloads\hospitalfrontdesk)
+2019-11-11 22:47:11,473 INFO c.c.m.h.HospitalFrontDeskApplication [restartedMain] No active profile set, falling back to default profiles: default
+2019-11-11 22:47:17,143 INFO c.c.m.h.HospitalFrontDeskApplication [restartedMain] Started HospitalFrontDeskApplication in 6.304 seconds (JVM running for 8.657)
+2019-11-11 22:51:08,870 INFO c.c.m.h.HospitalFrontDeskApplicationTests [main] Starting HospitalFrontDeskApplicationTests on DELL-PC with PID 4820 (started by DELL in C:\Users\DELL\Downloads\hospitalfrontdesk)
+2019-11-11 22:51:08,888 DEBUG c.c.m.h.HospitalFrontDeskApplicationTests [main] Running with Spring Boot v2.2.0.RELEASE, Spring v5.2.0.RELEASE
+2019-11-11 22:51:08,889 INFO c.c.m.h.HospitalFrontDeskApplicationTests [main] No active profile set, falling back to default profiles: default
+2019-11-11 22:51:11,835 DEBUG c.c.m.h.s.SpecialistService [main] Hospital details initialized : {kamachi=948, chettinad=949, appollo=946, kaveri=950, global=947}
+2019-11-11 22:51:15,267 INFO c.c.m.h.HospitalFrontDeskApplicationTests [main] Started HospitalFrontDeskApplicationTests in 6.903 seconds (JVM running for 11.562)
+2019-11-11 22:51:16,338 DEBUG c.c.m.h.s.SpecialistService [SpringContextShutdownHook] Hospital details cleared : {}
