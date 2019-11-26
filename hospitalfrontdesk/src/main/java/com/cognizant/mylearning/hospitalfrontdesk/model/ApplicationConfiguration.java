@@ -9,7 +9,7 @@ import org.springframework.stereotype.Component;
 
 import lombok.Getter;
 
-@Component
+
 @ConfigurationProperties("hospital")
 @PropertySource("classpath:specialist.properties")
 @Getter
